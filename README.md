@@ -11,3 +11,11 @@ Las matrices de LEDs pueden ser de dos tipos: ánodo común o cátodo común.
 Matriz cátodo común: los terminales negativos (cátodos) de todos los LEDs de cada fila están conectados juntos. Lo mismo ocurre con los pines positivos (ánodos) de cada columna.
 
 Matriz ánodo común: las conexiones son contrarias, es decir, los ánodos se conectan a las filas y los cátodos a las columnas.
+
+## Características técnicas de una matriz LED
+Teniendo en cuenta que una matriz sólo está compuesta por LEDs nos interesa conocer los siguientes parámetros:
+
+Tipo de matriz y distribución de pines
+Voltaje de operación de los LEDs
+Corriente de operación de los LEDs
+Color de los LEDs
