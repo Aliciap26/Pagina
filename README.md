@@ -19,3 +19,7 @@ Tipo de matriz y distribución de pines
 Voltaje de operación de los LEDs
 Corriente de operación de los LEDs
 Color de los LEDs
+
+## **![](https://user-images.githubusercontent.com/44456885/190032795-d2fcea92-f6d0-491a-87d8-48a38db6212a.png)**
+
+El MAX7219 es un circuito integrado que facilita el control de LEDs. Es usado principalmente en pantallas de 7 segmentos, paneles de LEDs industriales y como controlador de matriz de LED con Arduino.
