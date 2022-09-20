@@ -9,7 +9,7 @@ Encendiendo y apagando LEDs de la matriz se pueden realizar gráficos, figuras, 
 
 ## ¿Como esta conformado?
 Las matrices de LEDs pueden ser de dos tipos: ánodo común o cátodo común.
-**![](![image](https://user-images.githubusercontent.com/44456885/189586972-1bd2c07c-7978-4e49-aeb7-e76942047e90.png)
+**![image](https://user-images.githubusercontent.com/44456885/189586972-1bd2c07c-7978-4e49-aeb7-e76942047e90.png)
 
 Matriz cátodo común: los terminales negativos (cátodos) de todos los LEDs de cada fila están conectados juntos. Lo mismo ocurre con los pines positivos (ánodos) de cada columna.
 
@@ -28,3 +28,10 @@ Color de los LEDs
 El MAX7219 es un circuito integrado que facilita el control de LEDs. Es usado principalmente en pantallas de 7 segmentos, paneles de LEDs industriales y como controlador de matriz de LED con Arduino.
 
 **![image](https://user-images.githubusercontent.com/44456885/190033340-2cc3d7b7-ff44-4578-bab4-55d136f9005b.png)**
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|   |   |   | ☺ | ☺ | ☺ |   | ☺ | ☺ | ☺ |   |   |   |
+|   |   |   | ☺ |   |   | ☺ |   |   | ☺ |   |   |   |
+|   |   |   |   | ☺ |   |   |   | ☺ |   |   |   |   |
+|   |   |   |   |   | ☺ |   | ☺ |   |   |   |   |   |
+|   |   |   |   |   |   | ☺ |   |   |   |   |   |   |
