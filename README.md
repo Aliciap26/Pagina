@@ -28,8 +28,9 @@ Color de los LEDs
 El MAX7219 es un circuito integrado que facilita el control de LEDs. Es usado principalmente en pantallas de 7 segmentos, paneles de LEDs industriales y como controlador de matriz de LED con Arduino.
 
 **![image](https://user-images.githubusercontent.com/44456885/190033340-2cc3d7b7-ff44-4578-bab4-55d136f9005b.png)**
-## Objetivo en ![image](https://user-images.githubusercontent.com/44456885/191343588-21c540e8-3a5f-49ac-8e5f-8ba515c654fe.png)
-
+## Objetivo en 
+![image](https://user-images.githubusercontent.com/44456885/191343588-21c540e8-3a5f-49ac-8e5f-8ba515c654fe.png)
+### Realizar un corazon en la matriz de led, utilizando el lenguaje de Python y con la placa de Raspberry Pi4.
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |   |   |   | ☺ | ☺ | ☺ |   | ☺ | ☺ | ☺ |   |   |   |
