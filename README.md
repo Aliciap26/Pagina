@@ -4,8 +4,9 @@
 Una matriz conformada por leds acomodadas de filas y columnas.
 Encendiendo y apagando LEDs de la matriz se pueden realizar gráficos, figuras, textos y animaciones.
 
+<p aling="center">
 ![image](https://user-images.githubusercontent.com/44456885/190033447-f699dd51-4809-479f-bc09-f288872088d0.png)
-
+</p>
 
 ## ¿Como esta conformado?
 Las matrices de LEDs pueden ser de dos tipos: ánodo común o cátodo común.
