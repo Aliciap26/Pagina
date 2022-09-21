@@ -22,9 +22,9 @@ Matriz ánodo común: las conexiones son contrarias, es decir, los ánodos se co
 Teniendo en cuenta que una matriz sólo está compuesta por LEDs nos interesa conocer los siguientes parámetros:
 
 Tipo de matriz y distribución de pines
-Voltaje de operación de los LEDs
-Corriente de operación de los LEDs
-Color de los LEDs
+- Voltaje de operación de los LEDs
+- Corriente de operación de los LEDs
+- Color de los LEDs
 
 ## **![](https://user-images.githubusercontent.com/44456885/190032795-d2fcea92-f6d0-491a-87d8-48a38db6212a.png)**
 
