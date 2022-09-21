@@ -41,3 +41,10 @@ El MAX7219 es un circuito integrado que facilita el control de LEDs. Es usado pr
 |   |   |   |   | ☺ |   |   |   | ☺ |   |   |   |   |
 |   |   |   |   |   | ☺ |   | ☺ |   |   |   |   |   |
 |   |   |   |   |   |   | ☺ |   |   |   |   |   |   |
+
+
+
+
+
+
+https://mrchunckuee.blogspot.com/2021/08/RPPico-max7219-scroll-text.html
